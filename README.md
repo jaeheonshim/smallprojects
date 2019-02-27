@@ -12,3 +12,7 @@ This is a love tester that calculates the probability of a match between two peo
 ## [Prime Numbers](https://github.com/jaeheonshim/smallprojects/tree/master/Prime%20Numbers)
 *Java*
 This program calculates prime numbers. Nothing I can say could possibly add to this. May the great search for the mesenne primes begin!!!
+
+## [Popup Blocked](https://github.com/jaeheonshim/smallprojects/tree/master/Popup%20Blocked)
+*JavaScript*
+This is a simple JavaScript function that returns true if the browser is blocking popups, and false if the browser allows popups. I figured it could be useful in helping users disable popup blockers if needed for a website to serve its purpose.
