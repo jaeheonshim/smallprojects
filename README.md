@@ -1,5 +1,5 @@
 # Welcome to "smallprojects"
-Welcome to smallprojects, my github repository for small projects that don't deserve their own separate repository. They are still fun and interesting nevertheless. Enjoy!
+Welcome to smallprojects, my github repository for small projects that don't deserve their own separate repository. These are bits of code and small programs I work on in my free time, just for fun. They might not be as advanced and useful as the large-scale projects I build, buthey are still fun and interesting nevertheless. Feel free to use the code in this repository as you wish, as long as you follow the terms of the [license](https://github.com/jaeheonshim/smallprojects/blob/master/LICENSE). Enjoy!
 
 ## [Learning Goal Generator](https://github.com/jaeheonshim/smallprojects/tree/master/Learning%20Goal%20Generator)
 *Python*
