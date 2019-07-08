@@ -23,11 +23,13 @@ This Java program generates numbers in the Fibonacci Sequence. The Fibonacci Seq
 
 ## [Hangman](https://github.com/jaeheonshim/smallprojects/tree/master/Hangman)
 *Java*
-This is a fun hangman game written in Java. The objective of the game is to guess the correct word in a limited number of tries or less. The number of tries can be customized in the program. Also, a custom word can be specified in the program, or it can be set to use a random word from a list of 800 words.  
+This is a fun console hangman game written in Java. The objective of the game is to guess the correct word in a limited number of tries or less. The number of tries can be customized in the program. Also, a custom word can be specified in the program, or it can be set to use a random word from a list of 800 words.  
   
 To specify options, edit the constructor from when the Hangman object is created in the main method.  
   
 - Hangman("apple") will create a hangman game with the objective word set as apple.  
 - Hangman("apple", 10) will create a hangman game with the objective word set as apple AND the number of tries set to 10 (Default is 7).  
 - Hangman(true) will create a hangman game with a random objective word.  
-- Hangman(true, 10) will create a hangman game with a random objective word and the number of tries set to 10.
+- Hangman(true, 10) will create a hangman game with a random objective word and the number of tries set to 10.  
+
+PS - There isn't an actual hangman, I couldn't draw one in Unicode art. The program just tells you how many tries you have remaining.
