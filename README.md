@@ -1,5 +1,5 @@
 # Welcome to "smallprojects"
-Welcome to smallprojects, my github repository for small projects that don't deserve their own separate repository. They are still fun and interesting nevertheless. Enjoy!
+Welcome to smallprojects, my github repository for small projects that don't deserve their own separate repository. These are bits of code and small programs I work on in my free time, just for fun. They might not be as advanced and useful as the large-scale projects I build, buthey are still fun and interesting nevertheless. Feel free to use the code in this repository as you wish, as long as you follow the terms of the [license](https://github.com/jaeheonshim/smallprojects/blob/master/LICENSE). Enjoy!
 
 ## [Learning Goal Generator](https://github.com/jaeheonshim/smallprojects/tree/master/Learning%20Goal%20Generator)
 *Python*
@@ -16,3 +16,7 @@ This program calculates prime numbers. Nothing I can say could possibly add to t
 ## [Popup Blocked](https://github.com/jaeheonshim/smallprojects/tree/master/Popup%20Blocked)
 *JavaScript*
 This is a simple JavaScript function that returns true if the browser is blocking popups, and false if the browser allows popups. I figured it could be useful in helping users disable popup blockers if needed for a website to serve its purpose.
+
+## [Fibonacci Sequence](https://github.com/jaeheonshim/smallprojects/tree/master/Fibonacci%20Sequence)
+*Java*
+This Java program generates numbers in the Fibonacci Sequence. The Fibonacci Sequence is a sequence of numbers where the next number in the sequene is the sum of the last two numbers (0, 1, 2, 3, 5, 8 ...). Simply enter the largest number you would like to increment to in the sequence as a variable in the code, and execute the code to have the Fibonacci Sequence printed in the console.
