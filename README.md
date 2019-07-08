@@ -20,3 +20,16 @@ This is a simple JavaScript function that returns true if the browser is blockin
 ## [Fibonacci Sequence](https://github.com/jaeheonshim/smallprojects/tree/master/Fibonacci%20Sequence)
 *Java*
 This Java program generates numbers in the Fibonacci Sequence. The Fibonacci Sequence is a sequence of numbers where the next number in the sequene is the sum of the last two numbers (0, 1, 2, 3, 5, 8 ...). Simply enter the largest number you would like to increment to in the sequence as a variable in the code, and execute the code to have the Fibonacci Sequence printed in the console.
+
+## [Hangman](https://github.com/jaeheonshim/smallprojects/tree/master/Hangman)
+*Java*
+This is a fun console hangman game written in Java. The objective of the game is to guess the correct word in a limited number of tries or less. The number of tries can be customized in the program. Also, a custom word can be specified in the program, or it can be set to use a random word from a list of 800 words.  
+  
+To specify options, edit the constructor from when the Hangman object is created in the main method.  
+  
+- Hangman("apple") will create a hangman game with the objective word set as apple.  
+- Hangman("apple", 10) will create a hangman game with the objective word set as apple AND the number of tries set to 10 (Default is 7).  
+- Hangman(true) will create a hangman game with a random objective word.  
+- Hangman(true, 10) will create a hangman game with a random objective word and the number of tries set to 10.  
+
+PS - There isn't an actual hangman, I couldn't draw one in Unicode art. The program just tells you how many tries you have remaining.
