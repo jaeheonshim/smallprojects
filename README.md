@@ -33,3 +33,7 @@ To specify options, edit the constructor from when the Hangman object is created
 - Hangman(true, 10) will create a hangman game with a random objective word and the number of tries set to 10.  
 
 PS - There isn't an actual hangman, I couldn't draw one in Unicode art. The program just tells you how many tries you have remaining.
+
+## [Dice](https://github.com/jaeheonshim/smallprojects/tree/master/Hangman)
+*Python*
+This script is literally 9 lines of code that generate a random number between 1 and 6. The user can then choose whether they would like to generate another random number.
