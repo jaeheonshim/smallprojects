@@ -38,7 +38,7 @@ PS - There isn't an actual hangman, I couldn't draw one in Unicode art. The prog
 *Python*
 This script is literally 9 lines of code that generate a random number between 1 and 6. The user can then choose whether they would like to generate another random number.
 
-## [PigLatinTranslator]()
+## [Pig Latin Translator](https://github.com/jaeheonshim/smallprojects/tree/master/Pig%20Latin%20Translator)
 *Java*
 The Java class in this repository can be used to translate English into grammatically correct pig latin.
 
