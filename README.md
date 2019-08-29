@@ -37,3 +37,22 @@ PS - There isn't an actual hangman, I couldn't draw one in Unicode art. The prog
 ## [Dice](https://github.com/jaeheonshim/smallprojects/tree/master/Hangman)
 *Python*
 This script is literally 9 lines of code that generate a random number between 1 and 6. The user can then choose whether they would like to generate another random number.
+
+## [PigLatinTranslator]()
+*Java*
+The Java class in this repository can be used to translate English into grammatically correct pig latin.
+
+Pig Latin Rules  
+- If a word starts with a consonant and a vowel, put the first letter of the word at the end of the word and add "ay."
+- If a word starts with two consonants move the two consonants to the end of the word and add "ay."
+- If a word starts with a vowel add the word "way" at the end of the word.  
+
+Examples  
+Pig Latin is hard to speak.  
+igpay atinlay isway ardhay otay eakspay.  
+
+Quick brown fox jumps over the lazy dog  
+uickqay ownbray oxfay umpsjay overway ethay azylay ogday  
+
+how much wood would a woodchuck chuck if a woodchuck could chuck wood 
+owhay uchmay oodway ouldway away oodchuckway uckchay ifway away oodchuckway ouldcay uckchay oodway
