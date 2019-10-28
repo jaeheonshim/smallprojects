@@ -56,3 +56,7 @@ uickqay ownbray oxfay umpsjay overway ethay azylay ogday
 
 how much wood would a woodchuck chuck if a woodchuck could chuck wood 
 owhay uchmay oodway ouldway away oodchuckway uckchay ifway away oodchuckway ouldcay uckchay oodway
+
+## [leetspeak](https://github.com/jaeheonshim/smallprojects/tree/master/leetspeak)
+*Python*
+This script converts normal english text to 1337 text. There are two modes, one where only the letters that make sense in 1337 speak are converted, and the other where all letters are converted. I find the latter to be barely readable.
