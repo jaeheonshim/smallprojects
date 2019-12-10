@@ -60,3 +60,7 @@ owhay uchmay oodway ouldway away oodchuckway uckchay ifway away oodchuckway ould
 ## [leetspeak](https://github.com/jaeheonshim/smallprojects/tree/master/leetspeak)
 *Python*
 This script converts normal english text to 1337 text. There are two modes, one where only the letters that make sense in 1337 speak are converted, and the other where all letters are converted. I find the latter to be barely readable.
+
+## [Sudoku Puzzles](https://github.com/jaeheonshim/smallprojects/tree/master/Sudoku%20Puzzles)
+*Python*
+This Python program uses the backtracking algorithm to solve a Sudoku puzzle. More information about how this script works and a broken down explanation about it can be found on my [personal blog](https://jaeheonshim.com/solving-sudoku-puzzles-with-computer-science/).
